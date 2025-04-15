@@ -1,0 +1,1 @@
+The main.py function is used to construct an XGBoost-SVR composite model for prediction and evaluate the results of three different weighting methods, then save the results. The commpare.py function is used to compare the prediction performance of the composite model with that of individual machine learning models, and save the results.
